@@ -1,0 +1,7 @@
+{
+  "name": "node-on-fire",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Nikhil Arora",
+  "license": "MIT"
+}
